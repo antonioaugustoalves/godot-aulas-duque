@@ -5,4 +5,10 @@
 [node name="Teste" type="Node"]
 
 [node name="Tank" parent="." instance=ExtResource( 1 )]
-position = Vector2( 41, 53 )
+position = Vector2( 55, 325 )
+
+[node name="Tank3" parent="." instance=ExtResource( 1 )]
+position = Vector2( 35, 497 )
+
+[node name="Tank2" parent="." instance=ExtResource( 1 )]
+position = Vector2( 38, 397 )
